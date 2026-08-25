@@ -1,0 +1,4 @@
+interface:
+  display_name: "邮箱发票自动登记"
+  short_description: "下载邮件发票附件并生成可追溯 Excel 登记表"
+  default_prompt: "使用 $mail-invoice-register 从指定邮箱下载发票附件并生成登记表。"

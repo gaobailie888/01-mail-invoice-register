@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+*.env
+!invoice_mail.env.example
+invoice-output/
+attachments/
+AI邮箱发票登记*.xlsx
+run-summary.json
+buyer-summary.json
+by_company/
+buyer-rules.json
+rules/buyer-rules.json
+*购方分表.xlsx
+.DS_Store
+Thumbs.db
